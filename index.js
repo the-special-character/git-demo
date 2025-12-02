@@ -36,3 +36,4 @@ const newJohnInfo = {
 console.log(newJohnInfo);
 console.log(johnInfo);
 
+console.log(newJohnInfo);
