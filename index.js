@@ -34,3 +34,5 @@ const newJohnInfo = {
 };
 
 console.log(newJohnInfo);
+console.log(johnInfo);
+
