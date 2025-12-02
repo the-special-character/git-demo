@@ -40,3 +40,6 @@ console.log(newJohnInfo);
 
 console.log(newJohnInfo.address);
 console.log(johnInfo.address.zip);
+
+console.log(newJohnInfo.address.zip === johnInfo.address.zip);
+
