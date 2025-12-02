@@ -37,3 +37,6 @@ console.log(newJohnInfo);
 console.log(johnInfo);
 
 console.log(newJohnInfo);
+
+console.log(newJohnInfo.address.zip);
+console.log(johnInfo.address.zip);
